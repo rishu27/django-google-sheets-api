@@ -1,0 +1,4 @@
+Django>=3.2,<4.0
+djangorestframework>=3.12,<4.0
+google-api-python-client>=2.26,<3.0
+google-auth>=1.35,<2.0
